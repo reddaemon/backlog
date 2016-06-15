@@ -57,3 +57,5 @@ http://blog.2ndquadrant.com/jsonb-and-postgresql-9-5-with-even-more-powerful-too
 
 
 47 мин  https://www.youtube.com/watch?v=G9hWF0N5hkQ - Вся правда об индексах в PostgreSQL, Олег Бартунов, Александр Коротков (PostgreSQL Consulting)
+
+51 мин https://youtu.be/V0M6YwWmMYM - Ilya Kosmodemiansky: "Linux tuning to improve PostgreSQL performance"
